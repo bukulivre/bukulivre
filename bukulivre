@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buku Livre </title>
+    <!-- Link Favicon -->
+    <link rel="shortcut icon" href="./files/buku.ico" type="image/x-icon">
+    <!-- Link CSS -->
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <header>
+        <a href="index.html" class="tittle">BUKU LIVRE</a>
+        <nav>
+            <ul>
+                <li><a href="">INICIO</a></li>
+                <li><a href="html/compra.html">COMPRA Y VENTA</a></li>
+                <li><a href="">RESEÑAS</a></li>
+                <li><a href="">SOBRE NOSOTROS</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="banner">  
+    </section>
+
+    <section class="aboutUs">
+       <div class="container">
+        <h1>About Us</h1>
+        <hr>
+    </div>
+        <p>Desde buku livre buscamos resolver la problemática de la falta de lectura en la sociedad,  <br> haciendo mas accesible para todas las personas los libros que necesitan.  <br> En nuestra aplicación, no solo se podrán adquirir libros de literatura para la  <br> lectura por diversión, sino que se podrán adquirir todo tipo de libros, como los estudiantiles, <br> lo que ayudará a muchos niños, adolescentes o adultos que se encuentren estudiando en la escuela <br> o la universidad y no tengan los recursos monetarios para comprar los libros que necesitan. <br> Además, como cualquier usuario puede subir un pdf, se podrán encontrar libros en todos los idiomas.</p>
+    </section>
+
+    <section class="images">
+        <img src="./files/img1.jpeg" alt="">
+        <img src="./files/img3.jpeg" alt="">
+        <img src="./files/img2.jpeg" alt="">
+        <h2>Acercando a todos</h2>
+    </section>
+  
+<footer>
+    <div class="containerImg">
+        <img src="./files/buku.ico" alt="">
+    </div>
+    <div class="containerMenu">
+        <ul>
+            <li><a href="">INICIO</a></li>
+            <li><a href="">COMPRA Y VENTA</a></li>
+            <li><a href="">RESEÑAS</a></li>
+            <li><a href="">SOBRE NOSOTROS</a></li>
+        </ul>
+    </div>
+
+    <span>© 2021 Buku Livre. Todos los derechos reservados </span>
+</footer>    
+</body>
+</html>
